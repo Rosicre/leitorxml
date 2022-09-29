@@ -1,2 +1,1 @@
-# leitorxml
- Leitor de XML e Notal Fiscal
+# Leitor de XML e Notal Fiscal . Biblioteca utilizada: xmltodict e os
